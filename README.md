@@ -30,10 +30,12 @@
   <a href="https://github.com/sindresorhus/awesome-nodejs"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; </a>
   <a href="https://github.com/swoodford/aws"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; </a>
   <a href="https://github.com/git/git"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> </a>
-</div>
-    <style> 
+  <a href="https://github.com/NationalSecurityAgency/ghidra"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" title="Ghidra" **alt="Ghidra" width="40" height="40"/> </a>
+  <style> 
     .links{visibility:hidden} 
-    </style> 
+    </style>
+</div>
+     
 <h2>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </h2>
