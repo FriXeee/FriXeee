@@ -28,5 +28,6 @@
 </div>
 <div>
 ### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=FriXeee%20&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=FriXeee%20&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+
