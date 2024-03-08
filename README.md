@@ -47,6 +47,6 @@
 <div align="center">
   𝗗𝗶𝘀𝗰𝗼𝗿𝗱 :
       <a href="https://discord.com">
-      <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="70px">
+      <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="150px">
       </a> 
 </div>
