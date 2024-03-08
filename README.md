@@ -31,7 +31,7 @@
 <hr>
 </hr>
 <div>
-:fire: My Stats :
+:fire: 𝗠𝘆 𝘀𝘁𝗮𝘁𝘀 :
 </div>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=FriXeee%20&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
