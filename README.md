@@ -41,10 +41,7 @@
 </h2>
 <div>
 :fire: 𝗠𝘆 𝘀𝘁𝗮𝘁𝘀 :
-</div>
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=FriXeee%20&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 </div>
